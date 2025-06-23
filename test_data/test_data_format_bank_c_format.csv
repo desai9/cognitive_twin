@@ -1,0 +1,469 @@
+posting_date,memo,transaction_amount,category,actual_category
+2024-06-24,NETFLIX.COM,-32.68,unknown,entertainment
+2024-06-25,CVS PHARMACY,-19.07,unknown,healthcare
+2024-06-25,VISION CENTER,-12.37,unknown,healthcare
+2024-06-27,CONSULTING FEE,1289.68,income,income
+2024-06-27,CONSULTING FEE,1289.68,income,income
+2024-06-27,BARNES & NOBLE,-18.02,unknown,shopping
+2024-06-27,DENTAL ASSOCIATES,-18.01,unknown,healthcare
+2024-06-29,PUBLIX SUPER MARKET,-285.48,unknown,groceries
+2024-06-29,INSURANCE MERCHANT,-269.88,unknown,insurance
+2024-06-30,AMAZON.COM,-18.41,unknown,shopping
+2024-06-30,HOME DEPOT,-27.38,unknown,shopping
+2024-06-30,VISION CENTER,-18.41,unknown,healthcare
+2024-07-03,MACYS,-18.82,unknown,shopping
+2024-07-03,LOWES STORES,-20.1,unknown,shopping
+2024-07-04,ADIDAS OUTLET,-22.74,unknown,shopping
+2024-07-05,VISION CENTER,-12.87,unknown,healthcare
+2024-07-05,LAB CORP,-16.8,unknown,healthcare
+2024-07-06,AMC THEATRES,-28.09,unknown,entertainment
+2024-07-06,BEST BUY,-31.0,unknown,shopping
+2024-07-06,WALGREENS,-19.49,unknown,healthcare
+2024-07-07,UBER TRIP,-25.82,unknown,transportation
+2024-07-07,SPOTIFY PREMIUM,-25.02,unknown,entertainment
+2024-07-07,MCDONALDS,-145.35,unknown,dining
+2024-07-08,RENT MERCHANT,-1615.31,unknown,rent
+2024-07-08,BP GAS STATION,-17.88,unknown,transportation
+2024-07-08,VACATION EXPENSES,-776.3100695431688,unknown,entertainment
+2024-07-09,KROGER #123,-181.06,unknown,groceries
+2024-07-09,NETFLIX.COM,-21.4,unknown,entertainment
+2024-07-10,EXXON MOBIL,-32.24,unknown,transportation
+2024-07-10,RITE AID PHARMACY,-17.27,unknown,healthcare
+2024-07-11,PUBLIX SUPER MARKET,-143.52,unknown,groceries
+2024-07-13,HULU,-66.85,unknown,entertainment
+2024-07-13,AMAZON.COM,-19.91,unknown,shopping
+2024-07-14,AMAZON PRIME VIDEO,-35.24,unknown,entertainment
+2024-07-15,INTERNET SERVICE PROVIDER,-185.09,unknown,utilities
+2024-07-15,SUBSCRIPTIONS MERCHANT,-29.87,unknown,subscriptions
+2024-07-16,BONUS PAYMENT,1289.68,income,income
+2024-07-16,SHELL OIL,-17.73,unknown,transportation
+2024-07-16,EXXON MOBIL,-31.79,unknown,transportation
+2024-07-16,SUBSCRIPTIONS MERCHANT,-36.53,unknown,subscriptions
+2024-07-17,METRO TRANSIT,-26.98,unknown,transportation
+2024-07-17,STEAM GAMES,-19.67,unknown,entertainment
+2024-07-20,SPOTIFY PREMIUM,-34.46,unknown,entertainment
+2024-07-23,TARGET STORES,-106.59,unknown,groceries
+2024-07-23,REGAL CINEMAS,-25.84,unknown,entertainment
+2024-07-23,HULU,-25.43,unknown,entertainment
+2024-07-24,BARNES & NOBLE,-23.02,unknown,shopping
+2024-07-25,APPLE ITUNES,-23.46,unknown,entertainment
+2024-07-25,CHICK-FIL-A,-260.93,unknown,dining
+2024-07-25,MACYS,-27.48,unknown,shopping
+2024-07-27,INSURANCE MERCHANT,-123.94,unknown,insurance
+2024-07-30,SPOTIFY PREMIUM,-32.87,unknown,entertainment
+2024-07-31,HULU,-30.2,unknown,entertainment
+2024-08-01,CONSULTING FEE,1303.05,income,income
+2024-08-01,TARGET STORES,-98.5,unknown,groceries
+2024-08-03,WALMART SUPERCENTER,-208.96,unknown,groceries
+2024-08-04,SUBSCRIPTIONS MERCHANT,-78.83,unknown,subscriptions
+2024-08-05,SUBSCRIPTIONS MERCHANT,-48.53,unknown,subscriptions
+2024-08-06,BONUS PAYMENT,1303.05,income,income
+2024-08-07,RENT MERCHANT,-1164.18,unknown,rent
+2024-08-08,SHELL OIL,-65.73,unknown,transportation
+2024-08-08,STEAM GAMES,-20.05,unknown,entertainment
+2024-08-08,SUBSCRIPTIONS MERCHANT,-39.39,unknown,subscriptions
+2024-08-10,COSTCO WHOLESALE,-149.35,unknown,groceries
+2024-08-10,ADIDAS OUTLET,-35.35,unknown,shopping
+2024-08-10,SUBSCRIPTIONS MERCHANT,-41.23,unknown,subscriptions
+2024-08-12,FREELANCE PAYMENT,1303.05,income,income
+2024-08-13,NETFLIX.COM,-41.38,unknown,entertainment
+2024-08-13,DENTAL ASSOCIATES,-69.35,unknown,healthcare
+2024-08-13,RITE AID PHARMACY,-39.76,unknown,healthcare
+2024-08-14,PARKING METER,-72.15,unknown,transportation
+2024-08-15,GAS UTILITY SERVICE,-104.95,unknown,utilities
+2024-08-15,SHELL OIL,-93.8,unknown,transportation
+2024-08-16,EXXON MOBIL,-109.48,unknown,transportation
+2024-08-17,SPOTIFY PREMIUM,-32.1,unknown,entertainment
+2024-08-22,EXXON MOBIL,-45.52,unknown,transportation
+2024-08-22,SUBWAY,-32.86,unknown,dining
+2024-08-22,VISION CENTER,-7.84,unknown,healthcare
+2024-08-22,SUBSCRIPTIONS MERCHANT,-18.95,unknown,subscriptions
+2024-08-24,UBER TRIP,-41.63,unknown,transportation
+2024-08-24,BARNES & NOBLE,-23.17,unknown,shopping
+2024-08-24,SUBSCRIPTIONS MERCHANT,-13.79,unknown,subscriptions
+2024-08-25,RITE AID PHARMACY,-12.38,unknown,healthcare
+2024-08-26,BP GAS STATION,-44.81,unknown,transportation
+2024-08-26,AMC THEATRES,-64.73,unknown,entertainment
+2024-08-28,TACO BELL,-27.27,unknown,dining
+2024-08-28,INSURANCE MERCHANT,-172.31,unknown,insurance
+2024-08-28,FURNITURE STORE,-824.6349603072307,unknown,shopping
+2024-08-30,INTEREST PAYMENT,1896.47,income,income
+2024-08-31,BACK TO SCHOOL SHOPPING,-223.2149755217164,unknown,shopping
+2024-09-01,ALDI FOODS,-121.42,unknown,groceries
+2024-09-01,DISNEY+,-88.61,unknown,entertainment
+2024-09-01,CHICK-FIL-A,-22.61,unknown,dining
+2024-09-01,SUBSCRIPTIONS MERCHANT,-16.23,unknown,subscriptions
+2024-09-02,TARGET STORES,-99.59,unknown,groceries
+2024-09-03,RENT MERCHANT,-1109.65,unknown,rent
+2024-09-03,KOHLS DEPT STORE,-24.4,unknown,shopping
+2024-09-03,SUBSCRIPTIONS MERCHANT,-11.24,unknown,subscriptions
+2024-09-04,VERIZON WIRELESS,-129.66,unknown,utilities
+2024-09-05,CONSULTING FEE,1896.47,income,income
+2024-09-05,HULU,-56.2,unknown,entertainment
+2024-09-05,APPLE ITUNES,-66.25,unknown,entertainment
+2024-09-05,STARBUCKS COFFEE,-30.46,unknown,dining
+2024-09-05,VISION CENTER,-9.55,unknown,healthcare
+2024-09-06,CHEVRON,-60.84,unknown,transportation
+2024-09-06,CVS PHARMACY,-7.88,unknown,healthcare
+2024-09-07,WALGREENS,-10.69,unknown,healthcare
+2024-09-08,ADIDAS OUTLET,-17.26,unknown,shopping
+2024-09-09,BP GAS STATION,-52.68,unknown,transportation
+2024-09-09,DOMINOS PIZZA,-30.21,unknown,dining
+2024-09-09,CVS PHARMACY,-11.51,unknown,healthcare
+2024-09-10,MACYS,-46.99,unknown,shopping
+2024-09-12,KOHLS DEPT STORE,-18.94,unknown,shopping
+2024-09-13,TARGET STORES,-50.45,unknown,groceries
+2024-09-13,TARGET STORES,-79.34,unknown,groceries
+2024-09-14,CHEVRON,-64.54,unknown,transportation
+2024-09-14,SUBSCRIPTIONS MERCHANT,-13.26,unknown,subscriptions
+2024-09-15,CVS PHARMACY,-9.28,unknown,healthcare
+2024-09-16,SUBSCRIPTIONS MERCHANT,-14.78,unknown,subscriptions
+2024-09-17,APPLEBEES GRILL,-30.27,unknown,dining
+2024-09-17,CHICK-FIL-A,-31.23,unknown,dining
+2024-09-21,SUBSCRIPTIONS MERCHANT,-17.98,unknown,subscriptions
+2024-09-22,BEST BUY,-97.57,unknown,shopping
+2024-09-22,SUBSCRIPTIONS MERCHANT,-17.64,unknown,subscriptions
+2024-09-23,INSURANCE MERCHANT,-283.68,unknown,insurance
+2024-09-24,METRO TRANSIT,-28.46,unknown,transportation
+2024-09-26,BP GAS STATION,-34.86,unknown,transportation
+2024-09-29,COSTCO WHOLESALE,-127.01,unknown,groceries
+2024-09-30,AT&T MOBILITY,-191.81,unknown,utilities
+2024-09-30,REGAL CINEMAS,-69.1,unknown,entertainment
+2024-09-30,STARBUCKS COFFEE,-32.8,unknown,dining
+2024-10-01,LYFT RIDE,-42.35,unknown,transportation
+2024-10-01,LAB CORP,-29.87,unknown,healthcare
+2024-10-02,WALMART SUPERCENTER,-104.98,unknown,groceries
+2024-10-03,PAYROLL DEPOSIT - ACME CORP,2008.42,income,income
+2024-10-04,METRO TRANSIT,-37.17,unknown,transportation
+2024-10-04,XBOX LIVE,-106.66,unknown,entertainment
+2024-10-05,SUBWAY,-42.82,unknown,dining
+2024-10-05,SUBSCRIPTIONS MERCHANT,-16.26,unknown,subscriptions
+2024-10-06,AMC THEATRES,-76.85,unknown,entertainment
+2024-10-08,BP GAS STATION,-28.11,unknown,transportation
+2024-10-08,DOMINOS PIZZA,-19.11,unknown,dining
+2024-10-08,SUBWAY,-15.78,unknown,dining
+2024-10-08,MACYS,-65.42,unknown,shopping
+2024-10-09,SUBSCRIPTIONS MERCHANT,-28.13,unknown,subscriptions
+2024-10-10,KROGER #123,-107.51,unknown,groceries
+2024-10-11,SUBWAY,-18.17,unknown,dining
+2024-10-11,VISION CENTER,-27.0,unknown,healthcare
+2024-10-12,KOHLS DEPT STORE,-161.21,unknown,shopping
+2024-10-13,SALARY - TECH SOLUTIONS INC,2008.42,income,income
+2024-10-13,ADIDAS OUTLET,-65.94,unknown,shopping
+2024-10-13,MACYS,-91.86,unknown,shopping
+2024-10-13,DR. SMITH FAMILY PRACTICE,-35.92,unknown,healthcare
+2024-10-13,SUBSCRIPTIONS MERCHANT,-28.92,unknown,subscriptions
+2024-10-14,VISION CENTER,-21.52,unknown,healthcare
+2024-10-15,TACO BELL,-19.48,unknown,dining
+2024-10-16,RENT MERCHANT,-1514.46,unknown,rent
+2024-10-16,APPLEBEES GRILL,-21.7,unknown,dining
+2024-10-16,RITE AID PHARMACY,-56.37,unknown,healthcare
+2024-10-17,XBOX LIVE,-89.33,unknown,entertainment
+2024-10-17,CHICK-FIL-A,-21.92,unknown,dining
+2024-10-17,KOHLS DEPT STORE,-63.91,unknown,shopping
+2024-10-17,SUBSCRIPTIONS MERCHANT,-20.2,unknown,subscriptions
+2024-10-21,KROGER #123,-67.42,unknown,groceries
+2024-10-21,AMAZON.COM,-125.5,unknown,shopping
+2024-10-21,INSURANCE MERCHANT,-258.02,unknown,insurance
+2024-10-23,WALGREENS,-30.08,unknown,healthcare
+2024-10-24,GAS UTILITY SERVICE,-73.86,unknown,utilities
+2024-10-25,VISION CENTER,-28.34,unknown,healthcare
+2024-10-26,SUBSCRIPTIONS MERCHANT,-17.93,unknown,subscriptions
+2024-10-27,ALDI FOODS,-130.25,unknown,groceries
+2024-10-28,APPLE ITUNES,-69.48,unknown,entertainment
+2024-10-28,DR. SMITH FAMILY PRACTICE,-31.54,unknown,healthcare
+2024-10-29,PAYROLL DEPOSIT - ACME CORP,4129.18,income,income
+2024-10-29,LAB CORP,-40.3,unknown,healthcare
+2024-10-29,SUBSCRIPTIONS MERCHANT,-21.9,unknown,subscriptions
+2024-10-30,AMC THEATRES,-53.11,unknown,entertainment
+2024-10-30,LAB CORP,-31.05,unknown,healthcare
+2024-10-31,SUBSCRIPTIONS MERCHANT,-23.0,unknown,subscriptions
+2024-11-01,RENT MERCHANT,-1693.72,unknown,rent
+2024-11-01,AMAZON PRIME VIDEO,-62.4,unknown,entertainment
+2024-11-01,APPLEBEES GRILL,-375.92,unknown,dining
+2024-11-03,WHOLE FOODS MARKET,-104.57,unknown,groceries
+2024-11-05,APPLE ITUNES,-45.49,unknown,entertainment
+2024-11-05,SUBSCRIPTIONS MERCHANT,-18.9,unknown,subscriptions
+2024-11-06,HULU,-51.96,unknown,entertainment
+2024-11-09,CHEVRON,-88.42,unknown,transportation
+2024-11-09,VISION CENTER,-29.55,unknown,healthcare
+2024-11-10,SHELL OIL,-170.75,unknown,transportation
+2024-11-10,PARKING METER,-93.21,unknown,transportation
+2024-11-13,NETFLIX.COM,-51.98,unknown,entertainment
+2024-11-13,SUBSCRIPTIONS MERCHANT,-23.93,unknown,subscriptions
+2024-11-14,AMAZON MARKETPLACE,-85.37,unknown,shopping
+2024-11-14,CVS PHARMACY,-33.31,unknown,healthcare
+2024-11-15,ADIDAS OUTLET,-81.56,unknown,shopping
+2024-11-17,TARGET STORES,-114.6,unknown,groceries
+2024-11-17,BP GAS STATION,-67.36,unknown,transportation
+2024-11-17,AMC THEATRES,-59.0,unknown,entertainment
+2024-11-20,RITE AID PHARMACY,-4.18,unknown,healthcare
+2024-11-21,TRADER JOES,-107.24,unknown,groceries
+2024-11-21,CHIPOTLE MEXICAN GRILL,-37.5,unknown,dining
+2024-11-22,VERIZON WIRELESS,-173.98,unknown,utilities
+2024-11-22,APPLEBEES GRILL,-35.95,unknown,dining
+2024-11-23,CHICK-FIL-A,-35.89,unknown,dining
+2024-11-23,HOME DEPOT,-24.29,unknown,shopping
+2024-11-23,SUBSCRIPTIONS MERCHANT,-23.79,unknown,subscriptions
+2024-11-24,WHOLE FOODS MARKET,-43.28,unknown,groceries
+2024-11-24,CHEVRON,-75.57,unknown,transportation
+2024-11-24,STEAM GAMES,-94.59,unknown,entertainment
+2024-11-24,AMAZON MARKETPLACE,-13.91,unknown,shopping
+2024-11-24,WALGREENS,-3.24,unknown,healthcare
+2024-11-25,FREELANCE PAYMENT,1282.52,income,income
+2024-11-26,DR. SMITH FAMILY PRACTICE,-5.6,unknown,healthcare
+2024-11-27,COSTCO WHOLESALE,-47.88,unknown,groceries
+2024-11-27,HULU,-37.92,unknown,entertainment
+2024-11-27,BEST BUY - LAPTOP PURCHASE,-1007.1371526625786,unknown,shopping
+2024-11-28,KROGER #123,-64.09,unknown,groceries
+2024-11-30,SUBWAY,-42.7,unknown,dining
+2024-12-02,LOWES STORES,-17.12,unknown,shopping
+2024-12-02,SUBSCRIPTIONS MERCHANT,-40.55,unknown,subscriptions
+2024-12-03,SPOTIFY PREMIUM,-48.55,unknown,entertainment
+2024-12-04,CHEVRON,-98.88,unknown,transportation
+2024-12-04,APPLEBEES GRILL,-53.19,unknown,dining
+2024-12-04,STARBUCKS COFFEE,-40.04,unknown,dining
+2024-12-05,WALGREENS,-3.31,unknown,healthcare
+2024-12-05,SUBSCRIPTIONS MERCHANT,-28.78,unknown,subscriptions
+2024-12-06,RENT MERCHANT,-1042.12,unknown,rent
+2024-12-06,PUBLIX SUPER MARKET,-81.59,unknown,groceries
+2024-12-06,NETFLIX.COM,-55.89,unknown,entertainment
+2024-12-07,TARGET STORES,-63.36,unknown,groceries
+2024-12-07,SHELL OIL,-97.48,unknown,transportation
+2024-12-07,NIKE STORE,-19.51,unknown,shopping
+2024-12-08,DIVIDEND PAYMENT,1282.52,income,income
+2024-12-08,SPOTIFY PREMIUM,-60.91,unknown,entertainment
+2024-12-08,AMAZON PRIME VIDEO,-45.1,unknown,entertainment
+2024-12-08,AMAZON MARKETPLACE,-17.86,unknown,shopping
+2024-12-08,DR. SMITH FAMILY PRACTICE,-4.32,unknown,healthcare
+2024-12-10,DENTAL ASSOCIATES,-3.94,unknown,healthcare
+2024-12-11,AMAZON.COM - HOLIDAY GIFTS,-327.9851365254515,unknown,shopping
+2024-12-13,CHEVRON,-133.17,unknown,transportation
+2024-12-14,PAYROLL DEPOSIT - ACME CORP,1282.52,income,income
+2024-12-14,SUBSCRIPTIONS MERCHANT,-29.44,unknown,subscriptions
+2024-12-14,SUBSCRIPTIONS MERCHANT,-36.38,unknown,subscriptions
+2024-12-15,LAB CORP,-3.5,unknown,healthcare
+2024-12-15,WALGREENS,-6.34,unknown,healthcare
+2024-12-15,INSURANCE MERCHANT,-209.34,unknown,insurance
+2024-12-15,SUBSCRIPTIONS MERCHANT,-65.21,unknown,subscriptions
+2024-12-16,NIKE STORE,-33.49,unknown,shopping
+2024-12-17,AMC THEATRES,-49.52,unknown,entertainment
+2024-12-20,AMAZON MARKETPLACE,-112.07,unknown,shopping
+2024-12-21,PUBLIX SUPER MARKET,-138.0,unknown,groceries
+2024-12-21,APPLE ITUNES,-35.57,unknown,entertainment
+2024-12-21,INSURANCE MERCHANT,-186.22,unknown,insurance
+2024-12-21,SUBSCRIPTIONS MERCHANT,-17.29,unknown,subscriptions
+2024-12-22,METRO TRANSIT,-37.51,unknown,transportation
+2024-12-23,APPLEBEES GRILL,-50.49,unknown,dining
+2024-12-23,SUBSCRIPTIONS MERCHANT,-13.5,unknown,subscriptions
+2024-12-25,SALARY - TECH SOLUTIONS INC,2076.68,income,income
+2024-12-25,WATER DEPT,-173.2,unknown,utilities
+2024-12-25,PARKING METER,-46.24,unknown,transportation
+2024-12-25,OLIVE GARDEN,-45.62,unknown,dining
+2024-12-27,HULU,-48.32,unknown,entertainment
+2024-12-27,DISNEY+,-76.07,unknown,entertainment
+2024-12-29,AMAZON PRIME VIDEO,-50.13,unknown,entertainment
+2024-12-30,AMAZON MARKETPLACE,-100.86,unknown,shopping
+2024-12-30,DR. SMITH FAMILY PRACTICE,-93.69,unknown,healthcare
+2024-12-31,PANERA BREAD,-43.25,unknown,dining
+2025-01-01,APPLE ITUNES,-53.21,unknown,entertainment
+2025-01-01,SUBSCRIPTIONS MERCHANT,-19.68,unknown,subscriptions
+2025-01-03,STARBUCKS COFFEE,-29.81,unknown,dining
+2025-01-03,PANERA BREAD,-48.06,unknown,dining
+2025-01-03,LOWES STORES,-93.59,unknown,shopping
+2025-01-04,SAFEWAY STORE,-115.13,unknown,groceries
+2025-01-04,PANERA BREAD,-51.83,unknown,dining
+2025-01-06,KROGER #123,-145.54,unknown,groceries
+2025-01-07,BP GAS STATION,-30.87,unknown,transportation
+2025-01-10,SUBSCRIPTIONS MERCHANT,-16.39,unknown,subscriptions
+2025-01-11,RENT MERCHANT,-1663.11,unknown,rent
+2025-01-11,WALGREENS,-63.73,unknown,healthcare
+2025-01-12,APPLE ITUNES,-30.82,unknown,entertainment
+2025-01-13,LYFT RIDE,-31.11,unknown,transportation
+2025-01-15,ALDI FOODS,-212.5,unknown,groceries
+2025-01-15,SUBSCRIPTIONS MERCHANT,-20.7,unknown,subscriptions
+2025-01-16,SALARY - TECH SOLUTIONS INC,2076.68,income,income
+2025-01-20,OLIVE GARDEN,-47.11,unknown,dining
+2025-01-20,INSURANCE MERCHANT,-135.82,unknown,insurance
+2025-01-21,DISNEY+,-49.81,unknown,entertainment
+2025-01-21,WALGREENS,-69.84,unknown,healthcare
+2025-01-22,FREELANCE PAYMENT,3969.63,income,income
+2025-01-22,BP GAS STATION,-111.31,unknown,transportation
+2025-01-22,STARBUCKS COFFEE,-65.06,unknown,dining
+2025-01-22,TACO BELL,-60.87,unknown,dining
+2025-01-23,KROGER #123,-81.7,unknown,groceries
+2025-01-24,ALDI FOODS,-68.65,unknown,groceries
+2025-01-24,LAB CORP,-64.25,unknown,healthcare
+2025-01-24,SUBSCRIPTIONS MERCHANT,-14.29,unknown,subscriptions
+2025-01-25,METRO TRANSIT,-159.88,unknown,transportation
+2025-01-27,WHOLE FOODS MARKET,-59.31,unknown,groceries
+2025-01-27,SUBSCRIPTIONS MERCHANT,-12.86,unknown,subscriptions
+2025-01-28,AMAZON MARKETPLACE,-16.92,unknown,shopping
+2025-01-30,CHICK-FIL-A,-50.37,unknown,dining
+2025-01-30,SUBSCRIPTIONS MERCHANT,-11.7,unknown,subscriptions
+2025-01-31,SUBWAY,-50.65,unknown,dining
+2025-02-04,BP GAS STATION,-91.43,unknown,transportation
+2025-02-05,PUBLIX SUPER MARKET,-52.27,unknown,groceries
+2025-02-06,CHIPOTLE MEXICAN GRILL,-62.13,unknown,dining
+2025-02-06,SUBSCRIPTIONS MERCHANT,-12.15,unknown,subscriptions
+2025-02-07,MCDONALDS,-43.73,unknown,dining
+2025-02-07,HOME DEPOT,-21.18,unknown,shopping
+2025-02-08,SUBSCRIPTIONS MERCHANT,-14.78,unknown,subscriptions
+2025-02-09,RENT MERCHANT,-1498.4,unknown,rent
+2025-02-09,SAFEWAY STORE,-64.31,unknown,groceries
+2025-02-11,SUBSCRIPTIONS MERCHANT,-17.26,unknown,subscriptions
+2025-02-12,KOHLS DEPT STORE,-23.29,unknown,shopping
+2025-02-12,CVS PHARMACY,-95.37,unknown,healthcare
+2025-02-14,SPOTIFY PREMIUM,-56.44,unknown,entertainment
+2025-02-14,ADIDAS OUTLET,-18.4,unknown,shopping
+2025-02-15,GAS UTILITY SERVICE,-132.14,unknown,utilities
+2025-02-15,NETFLIX.COM,-46.22,unknown,entertainment
+2025-02-15,NIKE STORE,-16.3,unknown,shopping
+2025-02-15,SUBSCRIPTIONS MERCHANT,-9.81,unknown,subscriptions
+2025-02-18,SUBSCRIPTIONS MERCHANT,-15.14,unknown,subscriptions
+2025-02-19,BARNES & NOBLE,-35.16,unknown,shopping
+2025-02-19,HOME DEPOT,-35.24,unknown,shopping
+2025-02-20,AMAZON MARKETPLACE,-28.35,unknown,shopping
+2025-02-22,AMAZON MARKETPLACE,-25.65,unknown,shopping
+2025-02-23,REGAL CINEMAS,-73.8,unknown,entertainment
+2025-02-23,SUBSCRIPTIONS MERCHANT,-26.2,unknown,subscriptions
+2025-02-27,METRO TRANSIT,-67.33,unknown,transportation
+2025-02-27,SUBSCRIPTIONS MERCHANT,-14.06,unknown,subscriptions
+2025-02-28,STEAM GAMES,-95.67,unknown,entertainment
+2025-02-28,NIKE STORE,-27.26,unknown,shopping
+2025-03-01,PANERA BREAD,-77.95,unknown,dining
+2025-03-01,SUBSCRIPTIONS MERCHANT,-20.81,unknown,subscriptions
+2025-03-04,PUBLIX SUPER MARKET,-69.01,unknown,groceries
+2025-03-05,MACYS,-25.93,unknown,shopping
+2025-03-05,WALGREENS,-68.47,unknown,healthcare
+2025-03-05,RITE AID PHARMACY,-73.92,unknown,healthcare
+2025-03-06,COSTCO WHOLESALE,-105.37,unknown,groceries
+2025-03-06,STEAM GAMES,-74.13,unknown,entertainment
+2025-03-07,TRADER JOES,-88.25,unknown,groceries
+2025-03-09,INTEREST PAYMENT,2071.97,income,income
+2025-03-09,DR. SMITH FAMILY PRACTICE,-56.14,unknown,healthcare
+2025-03-09,TAX REFUND,890.262396991889,unknown,income
+2025-03-10,SALARY - TECH SOLUTIONS INC,2071.97,income,income
+2025-03-10,DISNEY+,-98.62,unknown,entertainment
+2025-03-10,HOME DEPOT,-21.18,unknown,shopping
+2025-03-11,COSTCO WHOLESALE,-123.45,unknown,groceries
+2025-03-11,PARKING METER,-85.63,unknown,transportation
+2025-03-11,SUBWAY,-115.88,unknown,dining
+2025-03-11,SUBSCRIPTIONS MERCHANT,-23.47,unknown,subscriptions
+2025-03-12,GAS UTILITY SERVICE,-176.6,unknown,utilities
+2025-03-13,SUBSCRIPTIONS MERCHANT,-18.31,unknown,subscriptions
+2025-03-14,INSURANCE MERCHANT,-439.77,unknown,insurance
+2025-03-15,RENT MERCHANT,-1157.2,unknown,rent
+2025-03-15,METRO TRANSIT,-95.55,unknown,transportation
+2025-03-15,APPLEBEES GRILL,-115.16,unknown,dining
+2025-03-16,WHOLE FOODS MARKET,-87.09,unknown,groceries
+2025-03-17,KOHLS DEPT STORE,-31.95,unknown,shopping
+2025-03-20,APPLE ITUNES,-16.89,unknown,entertainment
+2025-03-20,LAB CORP,-46.08,unknown,healthcare
+2025-03-21,NETFLIX.COM,-14.08,unknown,entertainment
+2025-03-22,AMC THEATRES,-29.52,unknown,entertainment
+2025-03-22,ADIDAS OUTLET,-48.28,unknown,shopping
+2025-03-23,DOMINOS PIZZA,-33.86,unknown,dining
+2025-03-23,BEST BUY,-43.92,unknown,shopping
+2025-03-23,BARNES & NOBLE,-53.5,unknown,shopping
+2025-03-23,SUBSCRIPTIONS MERCHANT,-15.72,unknown,subscriptions
+2025-03-26,AMC THEATRES,-20.62,unknown,entertainment
+2025-03-28,CHIPOTLE MEXICAN GRILL,-81.81,unknown,dining
+2025-03-28,FURNITURE STORE,-1062.554366283911,unknown,shopping
+2025-03-29,VERIZON WIRELESS,-214.58,unknown,utilities
+2025-03-30,APPLEBEES GRILL,-32.92,unknown,dining
+2025-03-30,INSURANCE MERCHANT,-454.93,unknown,insurance
+2025-03-30,SUBSCRIPTIONS MERCHANT,-12.88,unknown,subscriptions
+2025-03-30,SUBSCRIPTIONS MERCHANT,-10.55,unknown,subscriptions
+2025-04-02,NETFLIX.COM,-38.27,unknown,entertainment
+2025-04-02,RITE AID PHARMACY,-46.54,unknown,healthcare
+2025-04-03,XBOX LIVE,-23.96,unknown,entertainment
+2025-04-03,SUBSCRIPTIONS MERCHANT,-12.02,unknown,subscriptions
+2025-04-03,SUBSCRIPTIONS MERCHANT,-9.05,unknown,subscriptions
+2025-04-04,UBER TRIP,-85.53,unknown,transportation
+2025-04-04,AMAZON.COM,-107.87,unknown,shopping
+2025-04-04,CVS PHARMACY,-51.38,unknown,healthcare
+2025-04-05,EXXON MOBIL,-152.51,unknown,transportation
+2025-04-05,CVS PHARMACY,-43.02,unknown,healthcare
+2025-04-05,SUBSCRIPTIONS MERCHANT,-10.56,unknown,subscriptions
+2025-04-06,SAFEWAY STORE,-165.59,unknown,groceries
+2025-04-07,BONUS PAYMENT,4073.32,income,income
+2025-04-08,BEST BUY,-40.41,unknown,shopping
+2025-04-09,RENT MERCHANT,-1294.0,unknown,rent
+2025-04-10,WHOLE FOODS MARKET,-148.72,unknown,groceries
+2025-04-10,STEAM GAMES,-18.46,unknown,entertainment
+2025-04-10,MACYS,-54.25,unknown,shopping
+2025-04-10,LAB CORP,-46.92,unknown,healthcare
+2025-04-11,KROGER #123,-149.61,unknown,groceries
+2025-04-11,SUBSCRIPTIONS MERCHANT,-11.14,unknown,subscriptions
+2025-04-13,HOME DEPOT,-64.58,unknown,shopping
+2025-04-14,BEST BUY,-53.69,unknown,shopping
+2025-04-14,SUBSCRIPTIONS MERCHANT,-10.81,unknown,subscriptions
+2025-04-15,METRO TRANSIT,-105.86,unknown,transportation
+2025-04-15,CVS PHARMACY,-43.91,unknown,healthcare
+2025-04-16,DISNEY+,-16.2,unknown,entertainment
+2025-04-22,KROGER #123,-114.16,unknown,groceries
+2025-04-22,LYFT RIDE,-27.78,unknown,transportation
+2025-04-23,SUBSCRIPTIONS MERCHANT,-27.0,unknown,subscriptions
+2025-04-24,SUBSCRIPTIONS MERCHANT,-86.14,unknown,subscriptions
+2025-04-25,COSTCO WHOLESALE,-56.46,unknown,groceries
+2025-04-25,DISNEY+,-49.99,unknown,entertainment
+2025-04-25,AMAZON MARKETPLACE,-225.35,unknown,shopping
+2025-04-26,PAYROLL DEPOSIT - ACME CORP,4083.36,income,income
+2025-04-27,TARGET STORES,-61.81,unknown,groceries
+2025-04-27,UBER TRIP,-27.97,unknown,transportation
+2025-04-28,LOWES STORES,-146.56,unknown,shopping
+2025-05-01,SUBSCRIPTIONS MERCHANT,-24.55,unknown,subscriptions
+2025-05-02,RITE AID PHARMACY,-62.64,unknown,healthcare
+2025-05-03,UBER TRIP,-59.28,unknown,transportation
+2025-05-05,CHEVRON,-36.61,unknown,transportation
+2025-05-05,SPOTIFY PREMIUM,-62.08,unknown,entertainment
+2025-05-05,MCDONALDS,-155.44,unknown,dining
+2025-05-05,RITE AID PHARMACY,-57.55,unknown,healthcare
+2025-05-06,WALGREENS,-36.0,unknown,healthcare
+2025-05-08,HOME DEPOT,-128.99,unknown,shopping
+2025-05-10,COMCAST CABLE,-145.91,unknown,utilities
+2025-05-10,AMAZON PRIME VIDEO,-47.19,unknown,entertainment
+2025-05-10,STEAM GAMES,-68.17,unknown,entertainment
+2025-05-11,BP GAS STATION,-31.2,unknown,transportation
+2025-05-11,AMC THEATRES,-69.14,unknown,entertainment
+2025-05-11,DR. SMITH FAMILY PRACTICE,-54.02,unknown,healthcare
+2025-05-13,APPLE ITUNES,-55.17,unknown,entertainment
+2025-05-13,SUBSCRIPTIONS MERCHANT,-38.47,unknown,subscriptions
+2025-05-14,RENT MERCHANT,-1314.4,unknown,rent
+2025-05-15,KROGER #123,-65.49,unknown,groceries
+2025-05-15,BP GAS STATION,-31.32,unknown,transportation
+2025-05-16,INSURANCE MERCHANT,-265.03,unknown,insurance
+2025-05-19,STARBUCKS COFFEE,-93.12,unknown,dining
+2025-05-20,EXXON MOBIL,-116.94,unknown,transportation
+2025-05-21,STEAM GAMES,-86.98,unknown,entertainment
+2025-05-21,TACO BELL,-69.93,unknown,dining
+2025-05-21,DOMINOS PIZZA,-99.75,unknown,dining
+2025-05-22,CHEVRON,-116.08,unknown,transportation
+2025-05-23,PAYROLL DEPOSIT - ACME CORP,1983.37,income,income
+2025-05-23,FREELANCE PAYMENT,1983.37,income,income
+2025-05-24,ADIDAS OUTLET,-52.2,unknown,shopping
+2025-05-28,VERIZON WIRELESS,-98.83,unknown,utilities
+2025-05-28,STEAM GAMES,-84.93,unknown,entertainment
+2025-05-28,VISION CENTER,-17.0,unknown,healthcare
+2025-05-31,SHELL OIL,-90.0,unknown,transportation
+2025-05-31,NIKE STORE,-31.7,unknown,shopping
+2025-06-01,AMAZON MARKETPLACE,-30.1,unknown,shopping
+2025-06-04,TARGET STORES,-138.62,unknown,groceries
+2025-06-04,NETFLIX.COM,-81.0,unknown,entertainment
+2025-06-04,LOWES STORES,-25.83,unknown,shopping
+2025-06-05,SAFEWAY STORE,-263.35,unknown,groceries
+2025-06-05,AMC THEATRES,-83.83,unknown,entertainment
+2025-06-05,HULU,-82.07,unknown,entertainment
+2025-06-05,AMAZON MARKETPLACE,-23.8,unknown,shopping
+2025-06-05,DENTAL ASSOCIATES,-31.09,unknown,healthcare
+2025-06-07,NIKE STORE,-25.43,unknown,shopping
+2025-06-07,CVS PHARMACY,-19.27,unknown,healthcare
+2025-06-08,RENT MERCHANT,-1841.5,unknown,rent
+2025-06-08,INSURANCE MERCHANT,-295.78,unknown,insurance
+2025-06-09,LAB CORP,-25.36,unknown,healthcare
+2025-06-11,CVS PHARMACY,-22.41,unknown,healthcare
+2025-06-12,MACYS,-72.93,unknown,shopping
+2025-06-13,WALMART SUPERCENTER,-210.41,unknown,groceries
+2025-06-15,AMC THEATRES,-76.17,unknown,entertainment
+2025-06-15,SUBSCRIPTIONS MERCHANT,-63.96,unknown,subscriptions

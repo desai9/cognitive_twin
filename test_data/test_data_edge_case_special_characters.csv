@@ -1,0 +1,5 @@
+date,description,amount,category,actual_category
+2024-01-01,CAFÉ MÜLLER & CO.,-15.5,unknown,dining
+2024-01-02,JOSÉ'S RESTAURANT,-32.75,unknown,dining
+2024-01-03,STORE #123 (PARKING),-5.0,unknown,transportation
+2024-01-04,TRANSFER: SAVINGS→CHECKING,1000.0,unknown,financial

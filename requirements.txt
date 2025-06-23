@@ -1,0 +1,15 @@
+gTTS==2.5.4
+langchain==0.3.26
+langchain_anthropic==0.3.15
+langchain_community==0.3.26
+langchain_groq==0.3.2
+langchain_openai==0.3.24
+numpy==2.3.1
+pandas==2.3.0
+pdfplumber==0.11.7
+Pillow==11.2.1
+plotly==6.1.2
+pytesseract==0.3.13
+python-dotenv==1.1.0
+speechrecognition==3.14.3
+streamlit==1.45.1

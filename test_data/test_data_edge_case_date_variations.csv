@@ -1,0 +1,4 @@
+date,description,amount,category,actual_category
+2024-02-29,LEAP YEAR TRANSACTION,-20.0,unknown,other
+2024-12-31,YEAR END TRANSACTION,-15.0,unknown,other
+2024-01-01,NEW YEAR TRANSACTION,-10.0,unknown,other
